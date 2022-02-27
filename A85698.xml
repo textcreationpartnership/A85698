@@ -1,0 +1,358 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation of a disputation between Dr Griffith and Mr Vavasor Powell. And since some false observations made thereon, by Dr Griffith (or one of his symonicall brethren) to keep up the crack'd credit of their bad calling and cause. As also to reflect upon Mr Moston (whom they suppose to be the author of that relation) Mr Powell, and others. This therefore is to shew briefly the falsitie of those animadversions: and withall to justifie that syllogisme (objected against by him) by good authors, examples and arguments.</title>
+            <author>Griffith, George, 1601-1666.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85698</idno>
+            <idno type="STC">Wing G1998</idno>
+            <idno type="STC">Thomason E686_1</idno>
+            <idno type="EEBO-CITATION">99865948</idno>
+            <idno type="PROQUEST">99865948</idno>
+            <idno type="VID">166416</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85698)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166416)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 106:E686[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation of a disputation between Dr Griffith and Mr Vavasor Powell. And since some false observations made thereon, by Dr Griffith (or one of his symonicall brethren) to keep up the crack'd credit of their bad calling and cause. As also to reflect upon Mr Moston (whom they suppose to be the author of that relation) Mr Powell, and others. This therefore is to shew briefly the falsitie of those animadversions: and withall to justifie that syllogisme (objected against by him) by good authors, examples and arguments.</title>
+                  <author>Griffith, George, 1601-1666.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by M.S. and are to be sold by Livewell Chapman, at the Crowne in Popes head Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Febr. 1. 1652"; the 3 in the date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Powell, Vavasor, 1617-1670 --  Early works to 1800.</term>
+               <term>Griffith, George, 1601-1666 --  Early works to 1800.</term>
+               <term>Disenters, Riligious --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166416:1" rendition="simple:additions"/>
+            <p>A RELATION OF A DISPUTATION BETWEEN D<hi rend="sup">r</hi> 
+               <hi>Griffith</hi> and M<hi rend="sup">r</hi> 
+               <hi>Vavaſor Powell.</hi>
+            </p>
+            <p>And ſince ſome falſe Obſervations made thereon, by D<hi rend="sup">r</hi> 
+               <hi>Griffith</hi> (or one of his Symonicall Brethren) to keep up the crack'd credit of their bad Cal<g ref="char:EOLhyphen"/>ling and Cauſe.</p>
+            <p>As alſo to reflect upon M<hi rend="sup">r</hi> 
+               <hi>Moſton</hi> (whom they ſuppoſe to be the Author of that Relation) M<hi rend="sup">r</hi> 
+               <hi>Powell,</hi> and others.</p>
+            <p>This therefore is to ſhew briefly the falſitie of thoſe Animadverſions: and with all to juſtifie that Syllogiſme (objected againſt by him) by good Authors, Examples and Arguments.</p>
+            <bibl>1 Tim. 4. 2.</bibl>
+            <q>
+               <hi>They ſpeake lyes in hypocriſie, having their Conſcience ſeared with a hot iron.</hi>
+            </q>
+            <p>Lydi mali, poſt hos AEgyptij.</p>
+            <p>LONDON</p>
+            <p>Printed by <hi>M.S.</hi> and are to be ſold by <hi>Livewell Chapman,</hi> at the <hi>Crowne</hi> in <hi>Popes head Alley.</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:166416:2"/>
+            <pb n="1" facs="tcp:166416:2"/>
+            <head>A RELATION OF A DISPUTATION BETWEEN D<hi rend="sup">r</hi> 
+               <hi>Griffith</hi> and M<hi rend="sup">r</hi> 
+               <hi>Vavaſor Powell.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>N <hi>Page</hi> 1. <hi>The Doctor denies that he promiſed a Ser<g ref="char:EOLhyphen"/>mon.</hi> Anſw. There came a man in the name of the Doctor, and the builder of the Chap<g ref="char:EOLhyphen"/>pell, with a Paper in his hand, and publique<g ref="char:EOLhyphen"/>ly (after M<hi rend="sup">r</hi> 
+               <hi>Moſton</hi> and M<hi rend="sup">r</hi> 
+               <hi>Powell</hi> had Prea<g ref="char:EOLhyphen"/>ched) before a full Auditory, in the preſence of many of the Doctors owne friends, and proclaimed, that Doctor <hi>Griffith</hi> would Preach there at nine of the Clock upon the diſputation day: but its not ſtrange for Doctor <hi>Griffith</hi> to deny that; for he denied his owne <hi>Doctrine</hi> Preached againſt honeſt people, tho ſeverall men at the Diſpu<g ref="char:EOLhyphen"/>tation juſtified it to his face; and this made M<hi rend="sup">r</hi> 
+               <hi>Powell</hi> ſay to him; <hi>That a Lyer ought to have a good memory:</hi> although he ſaid <hi>deb<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t,</hi> yet preſently he ſaid <hi>lap ſus lingue, &amp;c.</hi> And ſaid <hi>Oportet mendacem eſſe memorem.</hi> The captious Doctor might have re<g ref="char:EOLhyphen"/>membred, <hi>That the wicked make a man an offender for a word:</hi> Alſo that he himſelfe praying for a ſick man at <hi>Llandrynio,</hi> ſaid, <hi>Lord heale him as thou didſt Peters ſervant, and the Captaines wives Mother.</hi>
+            </p>
+            <p>Page 4. <hi>The third Rule proved a tempting Question.</hi> Anſw. That is not ſo; for the third Rule was, that what could not be ended then, might be referd to another day: and the Que<g ref="char:EOLhyphen"/>ſtion was propounded by M<hi rend="sup">r</hi> 
+               <hi>Powell,</hi> after he had declared he was not willing to diſpute againſt other mens Callings, but to juſtifie his owne.</p>
+            <p>
+               <pb n="2" facs="tcp:166416:3"/>Page 4. <hi>Then M<hi rend="sup">r</hi> Powell repeated his words.</hi> That's falſe, he ſpake them firſt: and the Doctor ſaid onely, that he was both.</p>
+            <p>Page 5. <hi>He ſaid he had nothing to ſay againſt the Church of Eng<g ref="char:EOLhyphen"/>land, and the Calling of her Miniſters.</hi> Anſw. That's untrue, his words were he had nothing to ſay againſt the godly people, or godly Miniſters in <hi>England:</hi> and this he hath oft <hi>publiquely</hi> and <hi>privately</hi> ſpoke in my hearing: and that was the Reaſon why he asked the Doctor whether he was an Epiſcopall man, or a Presbyterian:and whether he did undertake to defend the cor<g ref="char:EOLhyphen"/>rupt part of the Miniſtery of <hi>England:</hi> for the godly party he would not diſpute againſt.</p>
+            <p>Page 5. <hi>The Doctor demeaned himſelfe in Chriſtian meekneſſe. Anſw.</hi> Was it Chriſtian meekneſſe for him to give M<hi rend="sup">r</hi> 
+               <hi>Powell</hi> (without the leaſt provocation) the lye twice. To which M<hi rend="sup">r</hi> 
+               <hi>Powell</hi> anſwered the firſt time, I thank you Doctor: and the ſe<g ref="char:EOLhyphen"/>cond time, <hi>Turpe eſt Doctori, cum culpa redarguit ipſum.</hi>
+            </p>
+            <p>Page 5. <hi>All the knowing people of the Company were on the con<g ref="char:EOLhyphen"/>trary ſide.</hi> What nothing but untruths? There were there above a dozen Univerſitie men of M<hi rend="sup">r</hi> 
+               <hi>Powells</hi> ſide; beſides ſeverall ſcores of godly people, who were able to Catechize your pro<g ref="char:EOLhyphen"/>phane Brethren, the Ejected Prieſts, who were better knowne there by their Adultery, drunkenneſſe, ſwearing, gaming, and rebelling againſt the State, then by their godly preaching, or converſation.</p>
+            <p>Page 5. <hi>The Doctor had ſome Intereſt in the Intention: as chal<g ref="char:EOLhyphen"/>lenged to be a party, &amp;c.</hi> This is as unjuſt an Aſſertion, as that M<hi rend="sup">r</hi> 
+               <hi>Powell</hi> publiſhed the Doctors firſt Letter; for both in M<hi rend="sup">r</hi> 
+               <hi>Powells</hi> Letter and his words to the Doctor, he expreſſed fully he ſent not at all to the Doctor any challenge, which if he had the Doctor had given Cauſe thereof by his invective Sermons againſt the godly Miniſters and people.</p>
+            <p>Page 6. <hi>It is well knowne, That the Doctor hath withſtood Pope<g ref="char:EOLhyphen"/>ry.</hi> Anſw. How? by maintaining holines of places, ſetting up the Communion Table Altarwiſe, (as it remaines to this day in one of his Cures called <hi>Llandrynio</hi>) maintaining God-fa<g ref="char:EOLhyphen"/>thers, the Croſſe in Baptiſme, prayer over the dead, wearing Surplices, ſinging of Pſalmes before dead corpſes, going pro<g ref="char:EOLhyphen"/>ceſſion (as he did laſt yeare) receiving all the ignorant and ſcandalous that come out of ſeveral Pariſhes to the Sacrament,
+<pb n="3" facs="tcp:166416:3"/>
+as he did laſt Eaſter. Is this withſtanding of Popery? <hi>Numa re<g ref="char:EOLhyphen"/>ligioſior.</hi>
+            </p>
+            <p>Page 6. <hi>It is too evident, that Popery is now improved againſt us. Anſw.</hi> It is true amongſt you; for I thinke one of the Doctors old Pariſhioners and friends, a Papiſt hath endeavoured to make ſome Popiſh (as the Doctor doth Prelaticall) Profe<g ref="char:EOLhyphen"/>lytes. The Doctor and his friends would remember, how in oppoſition to the Acts of Parliament, there was a ſcandalous Enterlude or Play ſet up in the Doctors Pariſsh in <hi>Shropſhire</hi> about two yeares ſince, and another neare this yeare (and that by the Children of ſome of the Ejected Clergie) when they durſt not doe it in <hi>Wales.</hi>
+            </p>
+            <p>Page 7. <hi>The Moderator eſteemeth of the Doctor as of his brother and friend.</hi> Anſw. That's like enough to make him partiall: beſides their drudging and drawing together in the Biſhops times: and the harmony that ſtill holds betweene theſe Organ<g ref="char:EOLhyphen"/>ſtrings. The Proverb is herein true, <hi>When Bullocks are once yoa<g ref="char:EOLhyphen"/>ked, they will hardly be ever parted.</hi>
+            </p>
+            <p>Page 8. <hi>That party looketh on the Doctor as a man ſtanding in the gappe before them.</hi> Anſw. Its very true he is looked ſo upon, and not without cauſe, for he hath ſet up a Monethly Lecture (which he never did till now) to cry downe private meetings, lay-mens preaching, &amp;c. And that he might doe his worke more effectually, he would have brought in an Ejected Prieſt, who preached publiquely that the Spirit in the Preachers ap<g ref="char:EOLhyphen"/>proved by Parliament was a Hobgobling Spirit, and that the preſent powers were <hi>Traytors</hi> and <hi>Rebells</hi> that had ſhed inno<g ref="char:EOLhyphen"/>cent bloud. This will be proved againſt him.</p>
+            <p>Page 9. <hi>That the laughter did not immediately follow upon the Doctors excepting againſt the Syllogiſme.</hi> Anſw. It was immedi<g ref="char:EOLhyphen"/>ately thereupon: and in ſuch an unchriſtian-like way (by a crew of carnall Cavaliers and outed Clergie-men) that made M<hi rend="sup">r</hi> 
+               <hi>Powell</hi> ask the Doctor whether he had brought a pack of Beagles to baite him. Afterwards the Doctor did ask in what figure the Syllogiſme was in: and M<hi rend="sup">r</hi> 
+               <hi>Powell</hi> going to ſay the firſt figure, anſwered ſuddenly <hi>Barbara</hi>: upon which the <hi>Ceutes</hi> did lift up a ſecond cry, but that was the laſt; for afterwards God did ſo ſilence and ſhame them, that they hung downe their heads: when they ſaw their Champion (the Doctor)
+<pb n="4" facs="tcp:166416:4"/>
+could not repeat an Argument (unleſſe it were firſt written and read) and it will not be amiſſe here to help the Doctors memory when he ſaid there was a fallacie in M<hi rend="sup">r</hi> 
+               <hi>Powells.</hi> Argu<g ref="char:EOLhyphen"/>ment: M<hi rend="sup">r</hi> 
+               <hi>Powell</hi> asked what fallacie it was, and whether <hi>in dictione,</hi> or, <hi>extra dictionem</hi> (which argued M<hi rend="sup">r</hi> 
+               <hi>Powell</hi> was not ignorant in the Moodes and Figures, nor in thoſe Elements of Arts, which I heard him uſe ſeverall times, both publiquely and privately) which Question the Doctor could not (and did not) anſwer; which made M<hi rend="sup">r</hi> 
+               <hi>Powell</hi> ſay, how now Doc<g ref="char:EOLhyphen"/>tors, what a man of ſo many fallacies, yet ignorant of this fallacy?</p>
+            <p>Page 10. <hi>There was ſome talke of making Red-Caſtle an Univerſitie.</hi> And yet in <hi>Page</hi> 11. <hi>You ſay that they muſt take this no<g ref="char:EOLhyphen"/>tice from you (as from a Promoter) That the Separatiſts are upon diſclaiming all Intereſts in Arts, and Univerſities, and Schollers.</hi> Behold a palpable contradiction, and the two next neighbou<g ref="char:EOLhyphen"/>ring Pages confronting one another. What to be for Univer<g ref="char:EOLhyphen"/>ſities, and yet againſt them, <hi>Nonne es in puteo conſtrictus Doctor?</hi> If we had been againſt learning, we would not have ſent to <hi>Oxford</hi> and <hi>Cambridge</hi> for Preachers, and School-Maſters, nor ſent ſome thither to be made Schollers (as we have done.) By this you may gueſſe the truth of the reſt.</p>
+            <p>Page 11. <hi>On this paſſage I ground my Conjecture I ſpake of, con<g ref="char:EOLhyphen"/>cerning the Author of the Exact Narrative.</hi> Anſw. By ſeverall paſ<g ref="char:EOLhyphen"/>ſages in theſe <hi>Animadverſions</hi> it may be more ſurely concluded, that Doctor <hi>Griffith</hi> himſelfe was the Author of them: then M<hi rend="sup">r</hi> 
+               <hi>Moſton</hi> of the Narrative. But be it M<hi rend="sup">r</hi> 
+               <hi>Moſton</hi> or another, its certaine the Narrative in the Subſtance of it is true, and if all the Circumſtances had been ſet downe, it would more have galled, and ſham'd the Doctor, as how he comming ſtrutting with a band of prophane men with him (that thirty or forty of the ſcum of two or three Countries might have been pick'd out) and his countenance falling like <hi>Nabals</hi> hearts, and feare ſurprizing him like <hi>Beltaſhazzar,</hi> by reaſon of the Conſciouſ<g ref="char:EOLhyphen"/>neſſe of his cauſe, and the convictions of his Conſcience, in appearing againſt Gods people and wayes: as was told him by M<hi rend="sup">r</hi> 
+               <hi>Powell</hi> then; now I ſee that Scripture fulfilled, Iſai, 29. 10. <hi>He ſhall cover the Seers.</hi>
+            </p>
+            <p>Page 11. <hi>I trouble you with no more of the ſylly non-ſence</hi> (mean<g ref="char:EOLhyphen"/>ing
+<pb n="5" facs="tcp:166416:4"/>
+M<hi rend="sup">r</hi> 
+               <hi>Moſtons</hi> good ſence) he underſtands, ſpeakes, and writes as good ſence as any of you: your bookes, and ſtoln, ſelf-ſtuff'd Sermons, will all verifie the Confeſſion of one of your brethren (that hath ſince left Preaching to attend upon your Pamphlet-Preſſe) <hi>I am a pen and inckhorne Divine.</hi> If M<hi rend="sup">r</hi> 
+               <hi>Mo<g ref="char:EOLhyphen"/>ſtons</hi> ſavoury, ſolid, ſpirituall Sermons, were compared with your ſlight, ſuperſtitious, ſupercilious, ſelf-exalting and ſin<g ref="char:EOLhyphen"/>ner-hardning Sermons, they that did reade them would ſay; <hi>What is the chaffe to the wheate?</hi> Jer. 23. 28. But you ſay, <hi>Page</hi> 12. <hi>One Orthodox true Sermon is more ſet by now then a hundred heretofore: Such is the famine of the Word.</hi>
+            </p>
+            <p>Firſt, Your Sermons and opinions are like M<hi rend="sup">r</hi> 
+               <hi>Alexander Griffths</hi> (your great Maſter-Minter) who did the laſt of <hi>Sep<g ref="char:EOLhyphen"/>tember</hi> 1652. at <hi>Kinton</hi> in <hi>Hertfordſhire,</hi> before many hundreds, deliver publiquely in a Sermon this Doctrine (from <hi>Jude</hi> 13.) That the Church and Pariſhes of <hi>England</hi> were Saints, and the Faith was delivered to them: alſo that all <hi>England</hi> were Saints, and godly people: and then in his diſputation did affirme, from 1 <hi>Pet.</hi> 3.19. That Chriſt in his Soule went locally to hell to preach to the damned Spirits. Afterwards from <hi>Matth.</hi> 13. He affirmed there was no Separation at all till the end of the world, (tho he had before graunted it) but that Heathen, Jewes, Turkes, Papiſts, Proteſtants, and all were to live with<g ref="char:EOLhyphen"/>out any Separation to the end of the world. Betwixt your Doctrine and his there is onely <hi>pilus in medio.</hi>
+            </p>
+            <p>Secondly, Is there a famine of the Word? the more ſhame for you and your brethren, to follow that principle, <hi>No pen<g ref="char:EOLhyphen"/>ny no pater noſter:</hi> but this is your falſe ſuggeſtion; for it is knowne and acknowledged by the very Enemies of the Truth, that they never had more preaching; for at leaſt (in this County of <hi>Montgomery</hi>) there is weekly preached about ſixty Sermons. <hi>But you ſay 'tis prating.</hi> So did the <hi>Epicureans</hi> and <hi>Stoicks</hi> (your Brethren) ſay of <hi>Pauls</hi> preaching, <hi>Acts</hi> 17. 18. But we muſt ſsay as <hi>Joh.</hi> 3. <hi>Ep: v.</hi> 10. <hi>You prate maliciouſly againſt us, Multa &amp; ſtulta loquuntur (loquimini.)</hi>
+            </p>
+            <p>Page 12. <hi>I will help you and ſo he did.</hi> M<hi rend="sup">r</hi> 
+               <hi>Powell</hi> told you then he would not ſeeke your help: and I heard him preſently re<g ref="char:EOLhyphen"/>duce and repeate the Syllogiſme ever the Doctor repea<g ref="char:EOLhyphen"/>ted it: and this may be ſaid for M<hi rend="sup">r</hi> 
+               <hi>Powell,</hi> that he intended not
+<pb n="6" facs="tcp:166416:5"/>
+as he <hi>then, before,</hi> and <hi>after</hi> declared to be opponent againſt the Doctors calling; but reſpondent for his owne: and I ſaw all his arguments were framed to that purpoſe: and what ever argument he urged againſt the Doctors Calling, he was con<g ref="char:EOLhyphen"/>ſtrained to forme them <hi>extempore,</hi> for unleſſe M<hi rend="sup">r</hi> 
+               <hi>Powell</hi> would diſpute againſt his Calling, he would not goe on: but as ſoone as his Calling and conditions were brought to light, <hi>Murem oſtendit pro Leone.</hi>
+            </p>
+            <p>Page 13. <hi>That</hi> M<hi rend="sup">r</hi> Powell <hi>offered not any proofe againſt, that formes were againſt the gift.</hi> Yes Sir by your (bad memories) good leave M<hi rend="sup">r</hi> 
+               <hi>Powell</hi> urged, <hi>Epheſ.</hi> 6. 18. <hi>Praying alwayes with all prayer and ſupplication in the Spirit.</hi> From whence he argued thus: If all prayers are in the Spirit, then the formes of meere mens makings without the Spirit, as yours are, doth exclude the gift: But the Text ſaith, that all prayers are to be in the Spirit. <hi>Ergo.</hi> The Doctor after long <hi>pauſing, puffing,</hi> and ſome <hi>prompting,</hi> ſaid, there was a fallacy in the argument. M<hi rend="sup">r</hi> 
+               <hi>Powell</hi> asked him what fallacy it was, and whether <hi>in dictione,</hi> or <hi>ex<g ref="char:EOLhyphen"/>tra dictionem</hi> (as is heretofore mentioned:) the Doctor gave no Anſwer, remembring better his ten yeares uſed forme then Lo<g ref="char:EOLhyphen"/>gicall fallacies: And hereupon the Doctor anſwering no<g ref="char:EOLhyphen"/>thing, but being amaz'd, denying ſomewhat (if he knew what) M<hi rend="sup">r</hi> 
+               <hi>Powell</hi> asked him a reaſon of his deniall. This is the ſumme of what the Doctor doth now doe largely with his pen (in <hi>Page</hi> 14.) what he could not doe then with his tongue. And truly Reader theſe men can eate their meate without their teeth as ſoone as give thankes either before or after meate without a forme.</p>
+            <p>
+               <hi>Oh but of the Doctors perſonall qualification he hath given ſuffici<g ref="char:EOLhyphen"/>ent teſtimony, by his praying in true Latine.</hi> Hath he ſo Sir, your principle do's ſpeake you to be a neighbour to a Papiſt (if not to have a Pope in your belly) Againe, if this be a qualification to pray a formall prayer in Latine, <hi>Weſtminſter</hi> Schoole boyes are equall with your Doctor; nay an old Popiſh toothleſſe woman may uſe a formall Latine prayer: but it ſeemes the Gentlemen conceives none of this Opponents could doe ſo much: but Sir know (tho that may be your Maſter-piece) that more then one of your Antagoniſts, can pray and write in Latine and Greeke, &amp;c.</p>
+            <p>
+               <pb n="7" facs="tcp:166416:5"/>Page 14. <hi>You ſhould have ſaid that Powell, Moſton, and Nevet, had nothing to ſay.</hi> They had ſaid ſo much, that it cauſed whiſ<g ref="char:EOLhyphen"/>pering between the Doctor and his Caſſack Counſell what they ſhould anſwer, at laſt the Doctors Councel (one of the long Robe) ſaid that M<hi rend="sup">r</hi> 
+               <hi>Powell</hi> ſhot at a man of ſtraw; to which M<hi rend="sup">r</hi> 
+               <hi>Powell</hi> replyed, why then did you bring ſuch a ſtrawen man hither.</p>
+            <p>In Page 16. <hi>The Doctor tells you what Commiſſion he had from Oxford; and how he was inveſted by the Biſhop and the Law of the Land.</hi> Not one word how he was qualified, called, and com<g ref="char:EOLhyphen"/>miſſioned by Chriſt and his people: he tells you of his Polyga<g ref="char:EOLhyphen"/>my or being married to three places (yea to three together, till the Commiſſioners did divorce him from two of them) but not one ſpirituall childe begot in any of the three; nay I dare aſſure thee, that I know no Pariſhes in <hi>Montgomery-ſhire</hi> more prophane and oppoſite to godlinſſe, then thoſe Pari<g ref="char:EOLhyphen"/>ſhes named by him, eſpecially <hi>Newtowne</hi> and <hi>Llandrynio.</hi>
+            </p>
+            <p>Page 17. <hi>The ſame way of captious arguing he uſes ſtill asking Queſtions.</hi> That was the way of Chriſt and his Apoſtles; <hi>Chriſt was found in the Temple among the Doctors, asking them Queſtions, Luk.</hi> 2. 46. ſee <hi>Rom.</hi> 3. 6. &amp; 4. 1. 1 Cor. 15. 30. But becauſe Queſtions tend to cleare the truth, theſe men fall out with that way. What is ſaid in <hi>Page</hi> 17. &amp; 18. is moſt of it true concer<g ref="char:EOLhyphen"/>ning the Gentlemans ingenuitie above them all (ſave that M<hi rend="sup">r</hi> 
+               <hi>Powell</hi> did not at all ſcoffe at him) for M<hi rend="sup">r</hi> 
+               <hi>Powell</hi> commended the Gentleman: who indeed (being more prompt) prompted the Doctor far more then M<hi rend="sup">r</hi> 
+               <hi>Nevet</hi> prompted any, for I was one of the next to M<hi rend="sup">r</hi> 
+               <hi>Nevet,</hi> and heard not any thing from him, but what he ſpake publiquely, for he ſaw no need to prompt.</p>
+            <p>Page 18. <hi>But a ſtander by,</hi> I remember not who the ſtander by was, unleſſe that <hi>Symon Magus</hi> the falſe accuſer and blaſphe<g ref="char:EOLhyphen"/>mer M<hi rend="sup">r</hi> 
+               <hi>Kyfyn,</hi> who was diſproved (in ſome things he did af<g ref="char:EOLhyphen"/>firme) to his face, which made him turne his backe for ſhame. <hi>Yea Adulterers and Buggerers, the Company underſtood his meaning</hi>
+               <note place="margin">This Buggerer was a wicked man that liv'd in <hi>Wrex<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>zm,</hi> but no Profeſ<g ref="char:EOLhyphen"/>ſor, much leſſe of that church</note> 
+               <hi>without ſaying more, &amp;c.</hi> Does not feare of being found a lyer, or puniſhed as lyers take hold upon the heart of ſuch a falſe In<g ref="char:EOLhyphen"/>former and Accuſer? Was the Buggerer which you mention, ever a Profeſſor of Religion, much leſſe a Member of any of our Churches, nay was he not one of you, and of your Chruches? Againe, what Adulterer or other publique Tranſgreſſor is ei<g ref="char:EOLhyphen"/>ther
+<pb n="8" facs="tcp:166416:6"/>
+permitted or unpuniſhed amongſt us. Diſcover it if you can. <hi>Latet dolus in generalibus.</hi> But we could tell you of one of your Prieſts that made his brags (as was proved againſt him) of ſeveral adulteries; another of the Ejected Prieſts that mark'd and ſtole his Neighbours ſheepe within theſe four Moneths: another who with his man ſtole brick from his neighbour, and got a Maſon to work it by night: another who married two wives, lately in priſon for it: another Curate who went from houſe to houſe laſt Eaſter giving the Lords Supper, who being, drunke broke his neck (within this Moneth:) and of ſeverall Adulterers: But to come cloſer home to the Doctor, hath not his owne Curate a Baſtard by his wives Siſter, who is now in the houſe with him? If you goe to ſpeake of ſuch things, we could write in <hi>folio</hi> of your brethrens abominations. So that I may ſay to you according to the Proverb, <hi>Coelum non animum mutant, qui trans mare currunt.</hi>
+            </p>
+            <p>Page 19. <hi>A few of the Doctors Pariſhioners did ſing Pſalmes com<g ref="char:EOLhyphen"/>ing to bury a dead corps</hi> July 23. 1652. <hi>Therefore they were ſuperſti<g ref="char:EOLhyphen"/>tious &amp; ſcandalous that Elected him or approved of his Election,</hi> March 20. 1633. They were not few but many that did ſo: and they are of the ſame lump with thoſe that choſe him: and this with their kneeling and ſaying prayers at croſſe wayes, with many heatheniſh and Popiſh practices beſides, which however the Do<g ref="char:EOLhyphen"/>ctor would not then owne, yet he hath formerly both allowed and countenanced; otherwiſe that Scripture <hi>like Prieſt like peo<g ref="char:EOLhyphen"/>ple,</hi> could not be verified (which indeed is) in them. But in <hi>pag.</hi> 19. That popiſh <hi>cuſtome of canting before a dead Corps is rather ju<g ref="char:EOLhyphen"/>ſtified here, then condemned:</hi> onely it is minced and mitigated, be<g ref="char:EOLhyphen"/>cauſe <hi>it is in a reformed Church.</hi> Tho ſinging of P<hi>ſalmes</hi> be lawfull, yet let it be conſidered whether it was ſeaſonable then (being contrary to the direction in Scripture, <hi>Jam.</hi> 4. <hi>If any be merry let him ſing Pſalmes</hi>) and whether it was not ſuperſtitious both in the end, and the manner of the action; the end to follow hu<g ref="char:EOLhyphen"/>mane Popiſh tradition, the action ſo done was to doe what is prohibited. Under ſuch fine (but falſe) pretences were all the Popiſh Trumpery brought into you deformed Church.</p>
+            <p>Page 19. <hi>In charity the Doctor conceives the greateſt part of his Pa<g ref="char:EOLhyphen"/>riſhioners are Saints (or ſuch Saints as are in Heaven.)</hi> 
+               <note place="margin">Meaning his old Pariſhio<g ref="char:EOLhyphen"/>ners now dead.</note> It is more then ordinary for theſe men to confeſſe Saints to be-on Earth. (for ſeverall of their Ejected Prieſts preached to the contrary)
+<pb n="9" facs="tcp:166416:6"/>
+But the Doctors Saints, are like the Chappel, which the Doctor in one of his latine Letters faith was dedicated to the holy Tri<g ref="char:EOLhyphen"/>nity: wheras the building of it was a penalty inflicted upon the builder for begetting baſtards. But like Church like children, and ſuch as the <hi>Sanctus doctus</hi> is, ſo are the <hi>indocti ſancti.</hi>
+            </p>
+            <p>Page 20. <hi>M<hi rend="sup">r</hi> Powell thought him ſelfe facete in popping the Mode<g ref="char:EOLhyphen"/>rator in the mouth with the Directory.</hi> If you count the Church of <hi>England</hi> your Mother; and the <hi>Directory</hi> a Rule for the Church, why ſhould you digreſſe from it? Oh but you have not yet don with the old Engliſh Maſſe, nor digeſted the <hi>Directory,</hi> nor lear<g ref="char:EOLhyphen"/>ned to practiſe your owne principles.</p>
+            <p>Page 20. <hi>The Doctor diſtinguiſhed and ſaid, Apoſtles were conſide<g ref="char:EOLhyphen"/>red either in their perſons or office.</hi> But have you forgot, the Doc<g ref="char:EOLhyphen"/>tors anſwer or diſtinction, which was in theſe words (as it was then taken in ſhort hand) <hi>Apoſtles are either taken in Scripture for the immediate, or primary Apoſtles, or for their ſucceſſours.</hi> To which M<hi rend="sup">r</hi> 
+               <hi>Powell</hi> replyed, <hi>Ubi ſcriptura non diſtinguit ibi non diſtinguen<g ref="char:EOLhyphen"/>dum.</hi> The Doctor ſaid, that diſtinction was in Scripture. Where ſaid M<hi rend="sup">r</hi> 
+               <hi>Powell?</hi> the Doctor after ſilence (which made all indif<g ref="char:EOLhyphen"/>ferent men cry, what hath nothing to anſwer) brought out that in <hi>John, Whoſe ſins ye remit, they are remitted.</hi> How pertinent this was to the Queſtion judge ye. Upon which M<hi rend="sup">r</hi> 
+               <hi>Moſton</hi> ſaid, what are ye ſilent? have ye no Scripture for what ye ſay? weele help you to Scripture. Is not all this true <hi>Animadverter?</hi> do you then blame M<hi rend="sup">r</hi> 
+               <hi>Powell</hi> for asking you Queſtions? and did not the Doctor and his Aſſociates deny <hi>Timothy</hi> and <hi>Titus</hi> to be E<g ref="char:EOLhyphen"/>vangeliſts and of the 70 Diſciples, tho M<hi rend="sup">r</hi> 
+               <hi>Powell</hi> cited Scrip<g ref="char:EOLhyphen"/>tures to prove it; and the very Page in Tranſlation of Biſh. <hi>Honmer</hi> out of <hi>Euſebius</hi> to confirme it, yet the Doctor and his <note place="margin">Biſhop <hi>Hon.</hi> 4 <hi>Edit.</hi> pag. 517.</note> pupils continued ſtill to deny it. Did not this improve the Do<g ref="char:EOLhyphen"/>ctors credit much, <hi>viz.</hi> to be ignorant of Scripture (as the clou<g ref="char:EOLhyphen"/>dy Clergie of <hi>Wales</hi> are generally) and of prelaticall hiſtorito?</p>
+            <p>Page 21. <hi>It was time to call for an end of the Diſputation.</hi> So it was indeed when the Doctor was in his Maſter-piece (<hi>Ordinati<g ref="char:EOLhyphen"/>on</hi>) ſo wounded, and weakned, that two of his owne friends, that were Schollers, ſaid afterwards, they wondered at the Do<g ref="char:EOLhyphen"/>ctors weakneſſe therein; and being therein wounded he would not heare an argument more.</p>
+            <p>Page 21. <hi>This paſſage that he might chooſe another is not remembred.</hi> The Proverb is true, <hi>Whether you would not, you know not the way.</hi>
+               <pb n="10" facs="tcp:166416:7"/>
+What, do not you remember M<hi rend="sup">r</hi> 
+               <hi>Powell</hi> and M<hi rend="sup">r</hi> 
+               <hi>Moſton</hi> urged it oft, and cald by name upon M<hi rend="sup">r</hi> 
+               <hi>Kyſſin</hi> (the great Reviler) or upon any other to ſtand up in the Doctors ſtead.</p>
+            <p>
+               <hi>But you are told one challenged one of the bench and he refuſed.</hi> But that was after the diſpute, and the young man was M<hi rend="sup">r</hi> 
+               <hi>Jones</hi> (the Lord <hi>Herberts</hi> Chaplaine) who challenged M<hi rend="sup">r</hi> 
+               <hi>Charles Ed<g ref="char:EOLhyphen"/>wards</hi> to diſpute it in Latine, and he received the challenge in my (and many more peoples) hearing, but your Champion laid downe his cudgells, as your Doctor did his courage, and this I obſerve in theſe Vines your (improperly called <hi>Cler<g ref="char:EOLhyphen"/>gie</hi>) they are like the old <hi>Cavaleers,</hi> that never ſtand above one charge. So did the Doctor, he would not receive but one of M<hi rend="sup">r</hi> 
+               <hi>Powells</hi> Arguments, and one Arrow taken up by the way, ſo wounded him and his party, that I am perſwaded they will ne<g ref="char:EOLhyphen"/>ver appeare againe in that cauſe.</p>
+            <p>Pag. 22. M<hi rend="sup">r</hi> 
+               <hi>Powell declared for himſelf that he received Impoſition of hands with faſting &amp; prayer by a Presbytery in London.</hi> He did not ſay ſo, but that before theſe warrs he was choſen by faſting and prayer, by a Congregation of Saints: and ſince he had a Certi<g ref="char:EOLhyphen"/>ficate or Teſtimony, under the hands of twelve of the Aſſembly beſides the <hi>Prolocutor.</hi> He further ſaid, That there was one there that had received <hi>Impoſition of hands</hi> by a <hi>Presbytery</hi> in <hi>London</hi>: which notwithſtanding your Confederates (by name the up<g ref="char:EOLhyphen"/>holder of your drunken Alchouſe called a <hi>Colledge,</hi> &amp; the buil<g ref="char:EOLhyphen"/>der of your ſacred Chappell) ſhut out, tho he was an Univerſi<g ref="char:EOLhyphen"/>ty man, approved by the Commiſſioners, &amp; without exception: And this was one of thoſe that preached upon the ſide of a Hill after the diſputation, which you falſly accuſe for inveighing a<g ref="char:EOLhyphen"/>gainſt learning. But you cry out <hi>that we ſend out, Weavers, Smiths, Cappers, Souldiers.</hi> It is true, there is one Weaver a bleſſed under<g ref="char:EOLhyphen"/>ſtanding man, and one Smith a religious godly man (and one that hath more learning then ſome of your Curates) &amp; it may he two or three gifted godly tryed and approved men beſides, (who may be Souldiers or rather Officers)that goe along with our Preachers, as Fellow-helpers (even as the Apoſtles &amp; Mini<g ref="char:EOLhyphen"/>ſters had in the Primitive times) in the work of God, and God hath made them ſucceſſull. But is it not as lawful for ſuch men (who are godly and gifted) to exerciſe their gifts; as for ſimple <hi>Sir Johns,</hi> lack latine, lack-gifts, lack-grace, who kept poor Ale<g ref="char:EOLhyphen"/>houſes in the Mountaines: where they and the people ſpend to<g ref="char:EOLhyphen"/>gethers
+<pb n="11" facs="tcp:166416:7"/>
+the greateſt part of the Sabbath in prophaneneſs: of this ſort we can produce foure, for every Tradſman the Commiſſio<g ref="char:EOLhyphen"/>ners have ſent forth. Nay in point of learning they that are now ſent out and approved, ſhall compare with ſo many of the Ejected Prieſts, for ſpirituall gifts and graces (I trow) moſt of your Ejected Clergie will not pretend to.</p>
+            <p>Pag. 23, 24, &amp;c. <hi>You ſay the Doctor made anſwers to ſuch Scrip<g ref="char:EOLhyphen"/>tures as were cited by</hi> M<hi rend="sup">r</hi> Powell. The truth is, he did anſwer; For</p>
+            <p>
+               <hi>Firſt</hi> he confeſſed that it was lawfull for gifted brethren to preach (yet in his Sermons he railed againſt them, tho he con<g ref="char:EOLhyphen"/>feſſed publiquely he knew them not) but he excepted againſt the long try all of them. It's to be wonderd the Doctor (having been a Biſhops domeſtick Chaplaine) ſhould forget that Scrip<g ref="char:EOLhyphen"/>ture, <hi>Lay hands ſodainly on no man,</hi> 1 Tim. 5.22. But it ſeemes the Doctor would have other men run into the ſame errors which his Biſhop rather and himſelf ran into. And it would be better conſidered by the Doctor (&amp; his brethren) whether gifted men may not continue to exerciſe their gifts, and yet never be made Miniſters, or receive <hi>Ordination at all?</hi> And if the Doctor (or any of his friends) puts Pen to Paper againe, I ſhall deſire them to anſwer theſe Scriptures that juſtifie gifted brethrens teaching without Ordination, <hi>Num.</hi> 11. 25. <hi>Pro.</hi> 14. 25 <hi>Act.</hi> 8. 11. &amp; 11. 19. <hi>Rom.</hi> 12. 6. 1 Cor. 12. 7. &amp; 14. 3. <hi>Heb.</hi> 5. 12. &amp; 3. 13. 1 <hi>Pet.</hi> 4. 10. and to prove that <hi>Ordination</hi> is eſſentially neceſſary to a Mini<g ref="char:EOLhyphen"/>ſter and without which one cannot be a Miniſter: alſo let him anſer thoſe aſſertions of learned men; as</p>
+            <p n="1">1. <hi>Electio nil niſi complementum Electionis.</hi>
+            </p>
+            <p>
+               <hi>Vel Confirmatio Electionis,</hi> as another faith,</p>
+            <p>
+               <hi>Vel Teſtificatio Electionis.</hi>
+            </p>
+            <p>
+               <hi>Vel Ritus liber e obſervationis.</hi> Its true the Doctor will have <hi>Bellarmine</hi> to joyne with him herein, but few (or none) of the Proteſtant <hi>Writers,</hi> or <hi>Churches.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> The Doctor acknowledged a Separation from per<g ref="char:EOLhyphen"/>ſecuting prophane people (this is contrary to M<hi rend="sup">r</hi> 
+               <hi>Alexander Griffiths Non concordant inter ſe</hi>) which made M<hi rend="sup">r</hi> 
+               <hi>Powell</hi> ſay, I wiſh Doctor you may expreſſe this your <hi>Principle</hi> next <hi>Eaſter.</hi> But I feare as the Doctor did now willingly forbeare to relate this truth, leaſt his brethren (who to ſpeake truth, are for moſt part but like Ravens to the Swan in comparison of the Doctor, as M<hi rend="sup">r</hi> 
+               <hi>Powells</hi> expreſſion was) ſhould fall foule upon him. Truly
+<pb n="12" facs="tcp:166416:8"/>
+reader, thou maiſt beleeve it, the Doctor did ingenouſly (whe<g ref="char:EOLhyphen"/>ther out of policy, piety, or becauſe he could not ſpeak againſt them) confeſſe our ſeparation from perſecuters and prophane people to be lawful, &amp; our Miniſtry, &amp; that he had nothing to ſay againſt our Miniſters (which made M<hi rend="sup">r</hi> 
+               <hi>Powell</hi> anſwer, I hope the Doctor will become a ſeparatiſt, and one of us: at which the Doctor ſmild.) And this is all M<hi rend="sup">r</hi> 
+               <hi>Powell</hi> and thoſe of his judge<g ref="char:EOLhyphen"/>ment would have maintained; for they have <hi>publiquely,</hi> and <hi>pri<g ref="char:EOLhyphen"/>vately,</hi> in their Churches, and elſewhere declared, they ſeparate from none of the godly Miniſters, or godly people of <hi>England:</hi> and that they will receive any that are godly (as godly) with<g ref="char:EOLhyphen"/>out reſpect to their opinions, if they hold the head Chriſt, to joyn &amp; partake with them. Take notice that the Preacher who they ſay was (beaten in <hi>Dolgelly</hi>) a tradeſman, was an Univerſity man; ſo there is one untruth more. But I will follow them no longer in their falſities, but will come in the next &amp; laſt place to juſtifie the Syllogiſme, which the Doctor &amp; his brethren, then excepted againſt, and ſtill ignorantly maintaine, becauſe they would not acknowledge either their own weakneſs, and igno<g ref="char:EOLhyphen"/>rance, or the Truth, on the contrary ſide. Let's therfore examine the Syllogiſme, and the Exceptions againſt it. The Syllogiſme runs thus;</p>
+            <p>They that are not qualified, elected and ordained, according to the word of God; are not called of God.</p>
+            <p>But Doctor <hi>G.</hi> and his brethren, are not qualified, &amp;c. <hi>Ergo.</hi>
+            </p>
+            <p n="1">1. <hi>The Doctor exception was, that the Syllogiſme conſiſted all of Ne<g ref="char:EOLhyphen"/>gatives.</hi> Anſw. The Syllogiſme dos not conſiſt of all Negatives (much leſſe or meer Negatives) for the word (<hi>not</hi>) joyned with the ſubject in the Major, doth not make a negation, but onely a <hi>medium infinitum</hi> (implying an affirmative word uncertain and unlimited) and ſo the word (<hi>not</hi>) is to be taken in the Minor Propoſition: and ſo the moſt wife and ſolid Logicians take it for an affirmative <hi>predicati infiniti.</hi>
+            </p>
+            <p n="2">2. The Syllogiſme muſt be negative in matter, &amp; for me, before that rule is verified; <hi>Neve negativis, &amp;c. vel ex meris negativis nil concluditur:</hi> but this Syllogiſme is not ſo, for the <hi>Minor Propoſi<g ref="char:EOLhyphen"/>tion</hi> (as before) is an abſolute affirmation: <hi>but you are not qualifi<g ref="char:EOLhyphen"/>ed, &amp;c.</hi> The great Prophet Jeſus Chriſt (<hi>who is perfect wiſdome</hi>) ſhall be produced againſt the Doctor herein. <hi>Joh.</hi> 3.36. <hi>He that beleeveth not ſhall not ſee life:</hi> (The Minor Propoſition muſt be)
+<pb n="13" facs="tcp:166416:8"/>
+               <hi>But you Jews beleeve not</hi> Ergo. <hi>You Jews ſhall not ſee life.</hi> So <hi>Joh.</hi> 5. 23. <hi>He that honoureth not the Son, honoureth not the Father.</hi> The Minor muſt needs be; <hi>But you Jews honour not the Son.</hi> Ergo. <hi>You Jews ho<g ref="char:EOLhyphen"/>nour not the Father.</hi> The like argument you finde by <hi>Paul</hi> (a better Diſputant then Doctor <hi>Griffith</hi>) <hi>Rom.</hi> c.4. &amp;c. 8. Let the Doctor deny theſe to be true Arguments if he can; and if he acknow<g ref="char:EOLhyphen"/>ledge theſe I am ſure he muſt acknowledge the other, for there are no more negatives in the other then in theſe. But the Doctor (who would wave Scripture meerly to cavell againſt and occult the truth) <hi>may object that the Minor is not expreſſed in the text.</hi> What <note place="margin">
+                  <hi>Granger</hi> in his <hi>Syntag.</hi> doth oft ſupply that part of the Syllogiſme which is wanting; and it is rationall ſo to doe.</note> tho? does it follow, its not right arguing? Sure the D<hi rend="sup">r</hi> would underſtand if a man ſhould ſay, All Doctors and Miniſters, that ſubſcribe not the <hi>Engagement,</hi> &amp; acknowledge the preſent Powers, ſhall be Ejected. If the Minor Propoſition were not expreſſed: yet I ſuppoſe the Doctor would conceive that it did concerne him: but its probable he would cavell againſt that Law (the ſstroake of which by friendſhip he now avoyds) as much as he doth againſt this Syllogiſme, becauſe that would touch his profit as much as this doth his credit. But</p>
+            <p n="3">3. Becauſe the D<hi rend="sup">r</hi> conceives that M<hi rend="sup">r</hi> 
+               <hi>Moſton</hi> &amp; M<hi rend="sup">r</hi> 
+               <hi>Powell</hi> doe not underſtand, or elſe wrong <hi>Burgerdicius,</hi> and <hi>Keckerman:</hi> let's ſee what's their verdit herein, and for whom they will finde. <hi>Burg. Inſtit. Leg. lib. 2. chap. 8. pag. 178.</hi> faith, <hi>Si negatio ſit pars medij, bonus Syllogiſmus, es duabus negatibus conficitur.</hi>
+            </p>
+            <p>Exempt.grat. <hi>Quod non ſentit non eſt animal.</hi>
+            </p>
+            <p>
+               <hi>Planta non ſentit.</hi> Ergo. <hi>Planta non eſt animal.</hi>
+            </p>
+            <p>See further there: as alſo in <hi>Keck. Edit.</hi> 6 <hi>pag</hi> 419. who gives the ſame example as above. So <hi>Tho. Granger in his Syntagm. Logic. lib. 3. cap. 10. pag. 265.</hi> So <hi>Saunders</hi> and others. I might adde here the opinions of foure or five of the beſt <hi>Logicians</hi> I know in <hi>Wales,</hi> who had this Syllogiſme propounded to them; yea one of the beſt Schollers that was at the Diſpute that day, (who adheres in his Judgement, in other things, rather to the Doctor then to M<hi rend="sup">r</hi> 
+               <hi>Powell</hi>) ſaid it was a good Syllogiſme. But ſuppoſe the Syllo<g ref="char:EOLhyphen"/>giſme had not been true in forme, yet conſider what learned <hi>Al<g ref="char:EOLhyphen"/>ſtedius</hi> faith in his <hi>AEncyclopedia</hi> Printed <hi>An. 1630. pag. 437. Max. Materia neceſſaria, libera eſt a legibus formae ſyllogiſticae Ita<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſyllogiſ<g ref="char:EOLhyphen"/>mus ſaepe numero concludit neceſſitate materiae, ubi forma non eſt bona, Aquila non capit muſcas.</hi> And as for the Doctors Syllogiſme (or whoſe ever elſe they are) they differ very much from M<hi rend="sup">r</hi> 
+               <hi>Powells,</hi>
+               <pb n="14" facs="tcp:166416:9"/>
+for they are meere negatives (to was not his) Secondly, if they could be found as they are layd downe in any figure, yet they are not in the firſt figure as his was: and therefore the Doctor (or his Amanuenſis) ſhould leave off blinding the people with their cap<g ref="char:EOLhyphen"/>tious, vitious, fallacious arguing; and receive the Syllogiſmes more truly and properly retorted upon themſelves, thus;</p>
+            <p n="1">1. Syllog: <hi>No unreaſonable Creature is to be taken to be in capacity to diſpute.</hi>
+            </p>
+            <p>
+               <hi>But</hi> D<hi rend="sup">r</hi> Griffiths <hi>and his brethren are unreaſonable Creatures.</hi> Ergo.</p>
+            <p>
+               <hi>D<hi rend="sup">r</hi>
+               </hi> Griffiths <hi>and his brethren are not to be taken to be in capacity to diſpute.</hi>
+            </p>
+            <p>Or thus; <hi>That which is according to the word of God, is not to be ſpoken againſt.</hi>
+            </p>
+            <p>
+               <hi>But</hi> D<hi rend="sup">r</hi> Griffiths <hi>and his brethrens practiſe, is to be ſpoken againſt.</hi>
+            </p>
+            <p>Ergo. <hi>D<hi rend="sup">r</hi>
+               </hi> Griffiths <hi>and his Brethrens practiſe, is not according to the word of God.</hi>
+            </p>
+            <p>And ſo likewiſe the third Syllogiſme in the ſame manner. Thus you ſee D<hi rend="sup">r</hi> 
+               <hi>Griffiths,</hi> by Chriſts, and <hi>Pauls</hi> way of reaſon<g ref="char:EOLhyphen"/>ing, and by the beſt Logicians, (yea by his owne witneſſes) found guilty of ignorance, or forgetulnes in Logick: and by that time the D<hi rend="sup">r</hi> hath read this, and further conſidered, he may poſſibly be ſorry he gave heed to the cavells then put into his head by a young <hi>Sophiſter,</hi> newly come from <hi>Oxford. Sed dolus &amp; fraus pa<g ref="char:EOLhyphen"/>trocinaniur nemini.</hi> I ſhall conclude with the ſaying of two learned godly men, whom the Doctor would call Fathers, if they did not whip him, as he deſerves.</p>
+            <q>
+               <bibl>Chryſoſtomus.</bibl>
+               <p>
+                  <hi>Non ſolùm ille veritatis proditor eſt qui palàm mendacium pro veritate agnita loquitur: Sed etiam is qui veritati agnitae pertinaciter reſiſtit. Et</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>Auguſtinus.</bibl>
+               <p>
+                  <hi>Nimis perversò ſe ipſos amant, qui ideò alios errare volunt, ut ipſorum errorers lateant.</hi>
+               </p>
+               <p>Haec eſt prima mali labes, hinc corruit omnis Antique pietatis honos. Sed bonis dicat malè ſe<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> mentiri neget: tamen viget, vigebit, victa vincit veritas.</p>
+            </q>
+            <q>
+               <l>Heere truth through weake ones doth prevaile,</l>
+               <l>When Errour in ſtrong hands doe faile.</l>
+            </q>
+            <p>
+               <hi>Reader, paſſe by, or correct what faults have heerein eſcaped.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
